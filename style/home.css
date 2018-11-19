@@ -1,0 +1,27 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-size: 100%;
+    font-family: 'Gustisans-Regular';
+    background-image: url('../images/black.jpg');
+    background-repeat: round;
+}
+.container-body{
+background-color: rgb(255, 255, 255,0.6);
+margin-top:30px;
+}
+p{
+    width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis
+}
+a,a:hover{
+    padding-right:10px;
+    float:right;
+    font-weight:bold;
+    font-size:20px;
+    text-decoration:none;
+}

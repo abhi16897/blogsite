@@ -1,0 +1,33 @@
+body{
+    background-size: 100%;
+    font-family: 'Gustisans-Regular';
+    background-image: url('../images/black.jpg');
+    background-repeat: round;
+}
+ .container-body{
+    width:70%;
+    margin-top: 30px;
+    margin-bottom:20px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+ }
+ label{
+    font-weight: bold;
+    margin-right: 30px;
+ }
+ input[type=text],textarea{
+    width:100%;
+    border: 1px solid #ccc;
+    margin: 8px 0;
+    border-radius: 4px;
+    box-sizing: border-box;
+ }
+ input[type='file'],button{
+     display: inline-block;
+     text-align: right;
+     margin-right: 100px;
+ }
+ 
