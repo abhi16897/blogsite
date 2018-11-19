@@ -1,4 +1,4 @@
-*BLOGGING SYSTEM*
+*BLOGGING SYSTEM APPLICATIONS*
 
 
 Application url: *https://oletirevanth6.000webhostapp.com/*  this is (live application)url for my application.
@@ -26,7 +26,7 @@ Application url: *https://oletirevanth6.000webhostapp.com/*  this is (live appli
         7.User can see all the comments and can give reply back.
         
         
-       *SAMPLE SCREEN SHOTS*
+   *SAMPLE SCREEN SHOTS*
        
 ![screenshot 156](https://user-images.githubusercontent.com/28429834/48701011-779b4b80-ec13-11e8-8abd-8c208b967dfd.png)
 
