@@ -1,7 +1,7 @@
 *BLOGGING SYSTEM*
 This is the Blogging System Application.
 
-application url: *https://oletirevanth6.000webhostapp.com/*  this is (live application)url for my application.
+Application url: *https://oletirevanth6.000webhostapp.com/*  this is (live application)url for my application.
 
  *INSTRUCTIONS TO RUN THIS APPLICATION IN LOCAL HOST*
       
